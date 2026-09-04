@@ -18,3 +18,12 @@ num1=int(input("enter the first number : "))
 num2=int(input("enter the second number : "))
 result = add(num1, num2)
 print(f"The sum of {num1} and {num2} is {result}")
+
+
+
+
+def test():
+    x = 10
+
+test()
+print(x)
